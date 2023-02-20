@@ -1,0 +1,24 @@
+{
+  "name": "mock9json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivek-bhatt05/mock9json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivek-bhatt05/mock9json/issues"
+  },
+  "homepage": "https://github.com/Vivek-bhatt05/mock9json#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

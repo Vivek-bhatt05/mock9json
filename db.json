@@ -1,0 +1,13 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "Vikky",
+        "avatar":"https://us.123rf.com/450wm/pandavector/pandavector1901/pandavector190105281/pandavector190105281.jpg?ver=6",
+        "email": "vikky@gmail.com",
+        "password":"vikky"
+      }
+    ]
+
+   
+  }
